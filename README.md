@@ -11,3 +11,7 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
 
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
+
+
+1.depthwise convolution 实际上实现起来有两种方式,我曾想过优化卷积网络的运算方式,但是很多都失败了,效果不怎么好,
+一些人,一般都是以空间换时间,比如少做一层的for循环,使用更大的矩阵
