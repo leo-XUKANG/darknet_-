@@ -19,4 +19,9 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 一些人,一般都是以空间换时间,比如少做一层的for循环,使用更大的矩阵
 
 
-我准备注解AlexeyAB的代码，对比与作者源码。这位大神的代码有些改进，一边学习一边注释，诸位共勉
+我准备注解AlexeyAB的代码，一边学习一边注释，诸位共勉
+
+原作者的代码在
+src/文件夹下，
+我觉得大家可以自己对比这看，不同的想法，不同的作用
+我并未进行对比两者好坏，各人有各人的看法
